@@ -1,2 +1,2 @@
 # FlappyBird
-First mobile game 
+A Mobile game 
