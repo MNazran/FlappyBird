@@ -1,2 +1,2 @@
 # FlappyBird
-A Mobile game 
+A hyper casual mobile game 
